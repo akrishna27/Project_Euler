@@ -1,0 +1,6 @@
+﻿  Euler_3.cpp
+c:\users\ashwin\documents\visual studio 2015\projects\learn_cpp\learn_cpp\euler_3.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  c:\users\ashwin\documents\visual studio 2015\projects\learn_cpp\learn_cpp\euler_3.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\ashwin\documents\visual studio 2015\projects\learn_cpp\learn_cpp\euler_3.cpp(12): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+c:\users\ashwin\documents\visual studio 2015\projects\learn_cpp\learn_cpp\euler_3.cpp(23): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+  Learn_Cpp.vcxproj -> C:\Users\Ashwin\Documents\Visual Studio 2015\Projects\Learn_Cpp\Debug\Learn_Cpp.exe
